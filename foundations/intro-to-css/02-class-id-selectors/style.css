@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.Number {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-1 {
+    color: #0000ff;
+    font-size:36px;
+}
+
+.Font {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: #90ee90;
+    font-weight: bold;
+}
